@@ -1,0 +1,58 @@
+.image-wrapper {
+    position: relative;
+    height: 500px;
+    width: 740px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 332px;
+}
+
+.img-wrap {
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.overlay-box {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #7FB5FF;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.number-circle {
+    cursor: pointer;
+    border-radius: 50%;
+    width: 25px;
+    height: 23px;
+    background: #7FB5FF;
+    border: 2px solid white;
+    color: white;
+    font-size: 13px;
+}
+
+.numbering {
+    text-align: center;
+}
+
+.info {
+    margin: 20px;
+    font-family: cursive;
+    font-size: larger;
+    color: #7FB5FF;
+}
+
+.back {
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 20px;
+}

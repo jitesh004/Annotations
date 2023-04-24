@@ -1,0 +1,42 @@
+.preview-images {
+  height: 300px;
+  width: 300px;
+  cursor: pointer;
+  text-align: center;
+}
+
+input {
+  font-family: cursive;
+}
+
+.upload {
+  margin: 20px;
+}
+.or {
+  margin: 20px;
+  font-size: 18px;
+  font-family: cursive;
+}
+.choose {
+  margin: 20px;
+  font-family: cursive;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.flex-items {
+  margin: 20px;
+  text-align: center;
+  line-height: 75px;
+}
+
+.upload-btn {
+  background-color: #7FB5FF;
+  border-radius: 9px;
+  font-family: cursive;
+}
+
